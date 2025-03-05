@@ -12,7 +12,7 @@
 
 ## Overview
 
-This is a **dynamic and responsive** Real Estate platform designed to provide users with an intuitive and interactive experience for browsing, listing, and managing properties. The application features modern UI/UX, 3D visuals, and seamless navigation to enhance user engagement.
+This is a **dynamic and responsive** Real Estate platform designed to provide users with an intuitive and interactive experience for browsing, listing, and managing properties. The application features modern UI/UX, and seamless navigation to enhance user engagement.
 
 ## Features
 
