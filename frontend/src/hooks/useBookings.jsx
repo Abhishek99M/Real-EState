@@ -1,8 +1,8 @@
 import React, { useContext, useEffect, useRef } from 'react'
-import UserDetailContext from '../context/userDetailContext'
 import { useAuth0 } from '@auth0/auth0-react'
 import { useQuery } from '@tanstack/react-query'
 import { getAllBookings } from '../utils/api'
+import UserDetailContext from '../context/UserDetailContext'
 
 const useBookings = () => {
 
