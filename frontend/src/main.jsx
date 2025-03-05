@@ -11,7 +11,7 @@ createRoot(document.getElementById("root")).render(
     domain="dev-sp1xo52ukodfwewj.us.auth0.com"
     clientId="DXdRIxwIYA9wYGJyVFqSXRo4CQ0dCrZu"
     authorizationParams={{
-      redirect_uri: "http://localhost:5173",
+      redirect_uri: "https://real-e-state-frontend.vercel.app",
     }}
     audience="http://localhost:3000"
     scope="openid profile email"
